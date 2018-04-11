@@ -1,0 +1,13 @@
+enum GENDER {
+  MALE
+  FEMALE
+}
+
+enum CURRENCY {
+  NAIRA
+  DOLLAR
+  POUND
+  EURO
+}
+
+
